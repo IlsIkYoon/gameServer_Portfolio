@@ -114,6 +114,8 @@ public:
 	//--------------------------------------------
 	int _ClientDecodePacket();
 
+	bool InsertLen(unsigned short pLen);
+
 	//연산자 오버로딩//---------------------------------------
 	template<typename type>
 		requires std::is_arithmetic_v<type>

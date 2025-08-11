@@ -77,9 +77,9 @@ bool CMonitor::UpdateAllMonitorData()
 	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_SERVER_RUN, 1);
 	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_SERVER_CPU, loginServer_Cpu);
 	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_SERVER_MEM, (int)loginServer_Mem / 1024 / 1024);
-	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_SESSION, g_LoginSessionCount);
+	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_SESSION, (int)g_LoginSessionCount);
 	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_AUTH_TPS, loginServer_authTps);
-	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_PACKET_POOL, g_CPacketAllocCount);
+	UpdateMonitor(dfMONITOR_DATA_TYPE_LOGIN_PACKET_POOL, (int)g_CPacketAllocCount);
 
 	return true;
 }

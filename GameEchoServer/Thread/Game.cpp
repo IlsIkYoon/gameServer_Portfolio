@@ -84,7 +84,7 @@ void CGameThreadWork::OnDeleteSession(ULONG64 ID)
 	playerIndex = CWanServer::GetIndex(ID);
 	currentPlayer = &(*playerManager)[playerIndex];
 
-	int count = std::count(playerList.begin(), playerList.end(), currentPlayer);
+	int count = (int)std::count(playerList.begin(), playerList.end(), currentPlayer);
 	if (count == 1)
 	{
 		workPlayerCount--;

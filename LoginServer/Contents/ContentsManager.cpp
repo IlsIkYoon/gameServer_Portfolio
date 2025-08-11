@@ -20,7 +20,7 @@ CContentsManager::CContentsManager(CWanServer* pNetworkManager)
 	unsigned char localRedisAvailable;
 	unsigned char networkCode;
 	unsigned char stickyKey;
-	TextParser parser;
+	CTextParser parser;
 
 
 	networkManager = pNetworkManager;

@@ -83,7 +83,7 @@ public:
 		Node* nextNode;
 		Node* newNode;
 
-		newNode = (Node*)_mPool.Alloc();
+		newNode = (Node*)mPool.Alloc();
 
 
 		newNode->_data = pData;
