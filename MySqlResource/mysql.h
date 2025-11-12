@@ -216,10 +216,7 @@ enum mysql_option {
   MYSQL_OPT_SSL_SESSION_DATA
 };
 
-/**
-  @todo remove the "extension", move st_mysql_options completely
-  out of mysql.h
-*/
+
 struct st_mysql_options_extention;
 
 struct st_mysql_options {

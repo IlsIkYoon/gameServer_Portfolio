@@ -203,7 +203,6 @@ public:
 		_result = _end.QuadPart - _start.QuadPart;
 		if (_result < 0) __debugbreak();
 		g_ProfileMap.Insert(_tagName, _result);
-		//printf("Thread %d Á¾·á || ProfileMap Address: %p\n", GetCurrentThreadId(), &g_ProfileMap);
 	}
 
 };

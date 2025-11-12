@@ -55,7 +55,7 @@ unsigned int TickThread(void*)
 			switch (retval)
 			{
 			case static_cast<char>(en_InputType::en_ProcessExit):
-				//todo//서버 종료 요청 실행
+				__debugbreak();
 				break;
 			case static_cast<char>(en_InputType::en_SaveProfiler):
 				WriteAllProfileData();

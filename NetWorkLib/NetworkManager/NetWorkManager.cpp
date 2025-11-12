@@ -69,22 +69,8 @@ CWanManager::~CWanManager()
 
 	EnqueLog("All Session Log Out");
 
-	//네트워크 쓰레드를 모두 종료 시킨다.
 	SetEvent(_exitThreadEvent);
 
-
-	//쓰레드 종료에 대한 대기 작업
-
-
-
-	//리턴
-
-
-
-
-
-
-	//NetWorkClear();
 	WSACleanup();
 
 }
@@ -620,9 +606,6 @@ bool CWanManager::CheckGQCSError(bool retval, DWORD* recvdbytes, ULONG_PTR recvd
 	if (recvdkey == THREAD_EXIT)
 	{
 		__debugbreak();
-		//todo//
-		//종료에 대한 키 값 전달 
-		//종료 로직
 	}
 	if (recvdkey == NULL)
 	{
