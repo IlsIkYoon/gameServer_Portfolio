@@ -25,7 +25,7 @@
 </br>
 <p>Language : C++</p>
 <p>Skill : Redis, MySql, IOCP, Multithread</p>
-<a href="https://github.com/IlsIkYoon/ChatMultiServer" target="_blank">🔗 GitHub 새 탭으로 열기</a>
+<a href="https://github.com/IlsIkYoon/ChatMultiServer" target="_blank">🔗 프로젝트 보러 가기</a>
 
 </br>
 </br>
@@ -38,7 +38,7 @@
 </br>
 <p>Language : C++</p>
 <p>Skill : Select, Sector</p>
-<a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 GitHub 새 탭으로 열기</a>
+<a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 프로젝트 보러 가기</a>
 
 </br>
 </br>
@@ -51,7 +51,7 @@
 </br>
 <p>Language : C++</p>
 <p>Skill : A*, JPS</p>
-<a href="https://github.com/IlsIkYoon/FindingWayProgram_report" target="_blank">🔗 GitHub 새 탭으로 열기</a>
+<a href="https://github.com/IlsIkYoon/FindingWayProgram_report" target="_blank">🔗 프로젝트 보러 가기</a>
 
 </br>
 </br>
@@ -65,7 +65,7 @@
 
 <p>Language : C++</p>
 <p>Skill : MultiThread, Debugging</p>
-<a href="https://github.com/IlsIkYoon/LockFreeQ" target="_blank">🔗 GitHub 새 탭으로 열기</a>
+<a href="https://github.com/IlsIkYoon/LockFreeQ" target="_blank">🔗 프로젝트 보러 가기</a>
 </br>
 </br>
 </br>
@@ -78,7 +78,7 @@
 </br>
 <p>Language : C#</p>
 <p>Skill : .NET Winform</p>
-<a href="https://github.com/IlsIkYoon/Winform-practice" target="_blank">🔗 GitHub 새 탭으로 열기</a>
+<a href="https://github.com/IlsIkYoon/Winform-practice" target="_blank">🔗 프로젝트 보러 가기</a>
 
 </br>
 </br>
