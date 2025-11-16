@@ -29,6 +29,12 @@
 </br>
 </br>
 
+<a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
+  <img src="https://www.youtube.com/watch?v=W_Aarnm9jrs/0.jpg"
+       alt="YouTube Video"
+       style="width: 600px; border-radius: 10px;">
+</a>
+
 <h2>2. 게임 컨텐츠 서버</h2>
 <h3>동시 접속 7000명 수용의 MMO환경 서버. 생성, 섹터 이동, 공격, 사망 처리</h3>
 </br>
