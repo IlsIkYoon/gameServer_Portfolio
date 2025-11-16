@@ -30,7 +30,7 @@
 </br>
 
 <a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
-  <img src="https://www.youtube.com/watch?v=W_Aarnm9jrs/0.jpg"
+  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"/>
        alt="YouTube Video"
        style="width: 600px; border-radius: 10px;">
 </a>
