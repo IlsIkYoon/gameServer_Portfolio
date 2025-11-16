@@ -37,8 +37,8 @@
 <p>Language : C++</p>
 <p>Skill : Select, Sector</p>
 <a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 프로젝트 보러 가기</a>
-
-<p>아래 이미지를 클릭하면 이동합니다</p>
+</br>
+<p>아래 이미지를 클릭하면 영상으로 이동합니다</p>
 <a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
   <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
        alt="YouTube Video"
