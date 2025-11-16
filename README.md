@@ -28,9 +28,9 @@
 </br>
 </br>
 </br>
-
+<p>아래 이미지를 클릭하면 이동합니다</p>
 <a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
-  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"/>
+  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
        alt="YouTube Video"
        style="width: 600px; border-radius: 10px;">
 </a>
