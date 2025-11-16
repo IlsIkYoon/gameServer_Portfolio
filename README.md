@@ -28,12 +28,6 @@
 </br>
 </br>
 </br>
-<p>아래 이미지를 클릭하면 이동합니다</p>
-<a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
-  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
-       alt="YouTube Video"
-       style="width: 600px; border-radius: 10px;">
-</a>
 
 <h2>2. 게임 컨텐츠 서버</h2>
 <h3>동시 접속 7000명 수용의 MMO환경 서버. 생성, 섹터 이동, 공격, 사망 처리</h3>
@@ -43,6 +37,13 @@
 <p>Language : C++</p>
 <p>Skill : Select, Sector</p>
 <a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 프로젝트 보러 가기</a>
+
+<p>아래 이미지를 클릭하면 이동합니다</p>
+<a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
+  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
+       alt="YouTube Video"
+       style="width: 600px; border-radius: 10px;">
+</a>
 
 </br>
 </br>
