@@ -17,7 +17,7 @@
 </br>
 </br>
 <h2>1.  메인 서버 분산 설계</h2>
-<h3>네트워크 라이브러리 - 로그인 - Redis - 채팅(섹터 처리) - 모니터링 - DB 구조의 전체 서버 (15000명 연결 유지 테스트)</h3>
+<h3>네트워크 라이브러리 - 로그인 - Redis - 채팅(존 방식 구현) - 모니터링 - DB 구조의 전체 서버 (15000명 연결 유지 테스트)</h3>
 </br>
 <p>개발기간 : 2025.05.27-07.10</p>
 </br>
@@ -29,20 +29,21 @@
 </br>
 </br>
 
-<a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
-  <img src="https://www.youtube.com/watch?v=W_Aarnm9jrs/0.jpg"
-       alt="YouTube Video"
-       style="width: 600px; border-radius: 10px;">
-</a>
-
 <h2>2. 게임 컨텐츠 서버</h2>
-<h3>동시 접속 7000명 수용의 MMO환경 서버. 생성, 섹터 이동, 공격, 사망 처리</h3>
+<h3>동시 접속 7000명 수용의 MMO환경 서버. 생성, 섹터 이동, 공격, 사망 처리, 존 방식으로 구현</h3>
 </br>
 <p>개발기간 : 2024.11.28-2025.03.16</p>
 </br>
 <p>Language : C++</p>
 <p>Skill : Select, Sector</p>
 <a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 프로젝트 보러 가기</a>
+</br>
+<p>아래 이미지를 클릭하면 영상으로 이동합니다</p>
+<a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
+  <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
+       alt="YouTube Video"
+       style="width: 600px; border-radius: 10px;">
+</a>
 
 </br>
 </br>
