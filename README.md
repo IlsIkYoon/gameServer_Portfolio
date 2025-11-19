@@ -38,6 +38,7 @@
 <p>Skill : Select, Sector</p>
 <a href="https://github.com/IlsIkYoon/TCP_Fighter_report" target="_blank">🔗 프로젝트 보러 가기</a>
 </br>
+</br>
 <p>아래 이미지를 클릭하면 영상으로 이동합니다</p>
 <a href="https://www.youtube.com/watch?v=W_Aarnm9jrs" target="_blank">
   <img src="img/TCPFIGHTER.jpg" alt="게임 서버 영상" width="600"
@@ -57,6 +58,14 @@
 <p>Language : C++</p>
 <p>Skill : A*, JPS</p>
 <a href="https://github.com/IlsIkYoon/FindingWayProgram_report" target="_blank">🔗 프로젝트 보러 가기</a>
+</br>
+</br>
+<p>아래 이미지를 클릭하면 영상으로 이동합니다</p>
+<a href="https://youtu.be/ulu_kpi2pOo?si=eP62mDaPUl-3iX7t" target="_blank">
+  <img src="img/TCPFIGHTER.jpg" alt="길찾기 영상" width="600"
+       alt="YouTube Video"
+       style="width: 600px; border-radius: 10px;">
+</a>
 
 </br>
 </br>
